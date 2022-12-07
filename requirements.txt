@@ -1,4 +1,4 @@
-pyrogram==1.2.20
+git+https://github.com/BalamuruganDV/pyrogram@inline-m
 tgcrypto==1.2.2
 pymongo[srv]==3.12.3
 motor==2.5.1
@@ -8,7 +8,7 @@ telegraph==1.4.1
 googletrans==3.1.0a0
 gTTS
 asyncio==3.4.3
-aiohttp==3.7.4
+aiohttp
 aiofiles
 requests
 pyshorteners
